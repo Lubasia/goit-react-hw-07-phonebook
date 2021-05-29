@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "name": "Liubov Kozachok",
+      "number": "+380973907812",
+      "id": 1
+    },
+    {
+      "name": "Тарас",
+      "number": "+380973907812",
+      "id": 2
+    }
+  ]
+}
